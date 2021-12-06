@@ -3,10 +3,10 @@ name: CardanoAfterDark-meetings
 about: Creating a CardanoAfterDark meeting record
 title: CardanoAfterDark-Meeting - [Date]
 labels: Meetings
-assignees: 'Seomon4u, Cem Karaca, David Baxter, patrik'
+assignees: 'Seomon4u, ckaraca, davidbaxter30, psuzzi, xeeban'
 
 ---
-Catalyst-School-Meeting - 2021-12-01, 16:00 UTC
+Catalyst-School-Meeting - JJJJ-MM-DD, 00:00 UTC
 
 ### Moderator
 - [ ] Seomon @Seomon4u 
