@@ -8,9 +8,10 @@ If you go to 'Projects' you can create kanban-boards for your Area of work and p
 there are documents in the repository which you are free to edit and add to:
 
 * [Dictionary](dictionary.md) - building common language for clear understanding and communication.
-* [Docs](docs)
+* [Docs](docs) - a collection of most important docs
     * [Texas-hold-em](docs/texas-hold-em.md)
     * [Architecture](docs/architecture.md)
+* [Meetings](meet) - a persistent log of our meeting ideas
 
 we have meetings every 2nd Monday 17:00 UTC starting 13-12-2021.
 
