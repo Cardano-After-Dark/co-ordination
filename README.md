@@ -9,8 +9,8 @@ there are documents in the repository which you are free to edit and add to:
 
 * [Dictionary](dictionary.md) - building common language for clear understanding and communication.
 * [Docs](docs)
-** [Texas-hold-em](docs/texas-hold-em.md)
-** [Architecture](docs/architecture.md)
+    * [Texas-hold-em](docs/texas-hold-em.md)
+    * [Architecture](docs/architecture.md)
 
 we have meetings every 2nd Monday 17:00 UTC starting 13-12-2021.
 

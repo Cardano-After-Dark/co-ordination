@@ -20,7 +20,7 @@ Then, the user starts to play. For each round, there is a new contract. In the r
 When the round ENDs, the Round contract is sent back to the table and written into a sidechain (such that we’re fast, with no fees). Note: If a player drops out of a round, he renounces at any amount that was staked in the Pot, and waits for the next round.
 When a player LEAVEs the table, the Table contract is written into the Blockchain, and the amounts are regulated.
 
-![States of the Game and Related Contracts](resources/states-and-contracts)
+![States of the Game and Related Contracts](resources/states-and-contracts.png)
 
 
 Note: 
