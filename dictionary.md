@@ -32,7 +32,11 @@ For more poker terms, you can check: https://en.wikipedia.org/wiki/Glossary_of_p
 
 ## Cardano Blockchain Terms
 
-* *side Chain*:* a separate blochchain which runs in parallel to the main blocchain and operates independently. It can have its own consensus algorithm, and it can be connected to the mainnet with a bridge.
-* *state channel:*  An off-chain protocol that allows multi parties to commit a collection of funds on-chain and settle them indefinitely in a non-custodial way.
-* *Hydra:* A state channel that preserves the properties of the mainchain (it is isomorfic). 
+* *UTxO* An unspend transaction output which represents _local_ representation of value.
+* *EUTxO* Extended UTxO model which adds state representation to the UTxO model.
+* *state channel:*  An off-chain protocol that allows parties to commit a collection of UTxO's on-chain and settle them indefinitely in a non-custodial way off-chain.
+* *Hydra:* A state channel that preserves the properties of the mainchain (it is isomorfic).
+
+## Infrastructure used
+* *Blockfrost* An API service that provides on-chain data.
 
