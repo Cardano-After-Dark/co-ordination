@@ -32,5 +32,7 @@ For more poker terms, you can check: https://en.wikipedia.org/wiki/Glossary_of_p
 
 ## Cardano Blockchain Terms
 
-* *Side Chain*: a separate blochchain which runs in parallel to the main blocchain and operates independently. It can have its own consensus algorithm, and it can be connected to the mainnet with a bridge.
+* *side Chain*:* a separate blochchain which runs in parallel to the main blocchain and operates independently. It can have its own consensus algorithm, and it can be connected to the mainnet with a bridge.
+* *state channel:*  An off-chain protocol that allows multi parties to commit a collection of funds on-chain and settle them indefinitely in a non-custodial way.
+* *Hydra:* A state channel that preserves the properties of the mainchain (it is isomorfic). 
 
