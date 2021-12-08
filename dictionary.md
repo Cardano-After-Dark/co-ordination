@@ -37,6 +37,6 @@ For more poker terms, you can check: https://en.wikipedia.org/wiki/Glossary_of_p
 * *state channel:*  An off-chain protocol that allows parties to commit a collection of UTxO's on-chain and settle them indefinitely in a non-custodial way off-chain.
 * *Hydra:* A state channel that preserves the properties of the mainchain (it is isomorfic).
 
-## Infrastructure used
+## Infrastructure
 * *Blockfrost* An API service that provides on-chain data.
 
