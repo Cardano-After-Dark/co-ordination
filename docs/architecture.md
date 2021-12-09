@@ -24,7 +24,7 @@ When a player LEAVEs the table, the Table contract is written into the Blockchai
 
 
 Note: 
-* With hydra we could have a sidechain for free and pool many table contracts in one, so to reduce fees. 
+* With hydra we could have utilize state channels for free and progress table contracts off-chain, so to reduce fees. 
 
 
 ## Initial Implementation
